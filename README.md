@@ -11,7 +11,8 @@ This Repository have following Implementations
 	4. [seaborn](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/Python_Library_Lookup/Seaborn.pdf)
 	5. [Reg-ex](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/Python_Library_Lookup/Reg-Ex.pdf)
 	6. [All-libraries](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/Python_Library_Lookup/All-Libraries.pdf)
-3. [Another paragraph](#paragraph2)
+3. [searching](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/tree/main/searching)
+	1. [Linear Search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Linear_Search.ipynb)
 
 ## solving an equation using python <a name="solving an equation using python"></a>
 In this Piece I explained about how to solve the mathematical equations using python with sympy library.
@@ -19,8 +20,8 @@ In this Piece I explained about how to solve the mathematical equations using py
 ## Python_Library_Lookup <a name="Python_Library_Lookup"></a>
 This Particular folder have all the important libraries information for quick look up.
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Searching <a name="searching"></a>
+We will be understanding different searching algorithms and there implementation in python.
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
