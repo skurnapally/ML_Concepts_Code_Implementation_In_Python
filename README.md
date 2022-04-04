@@ -13,6 +13,7 @@ This Repository have following Implementations
 	6. [All-libraries](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/Python_Library_Lookup/All-Libraries.pdf)
 3. [searching](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/tree/main/searching)
 	1. [Linear Search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Linear_Search.ipynb)
+	2. [Binary Search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Binary_Search.ipynb)
 
 ## solving an equation using python <a name="solving an equation using python"></a>
 In this Piece I explained about how to solve the mathematical equations using python with sympy library.
