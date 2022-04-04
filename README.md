@@ -3,13 +3,13 @@ This Repository Have all the important Concepts and their Implementations in Pyt
 This Repository have following Implementations
 
 # Table of contents
-1. [Introduction](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/solving%20an%20equation%20using%20python.ipynb)
+1. [solving an equation using python](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/solving%20an%20equation%20using%20python.ipynb)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## This is the introduction <a name="solving an equation using python"></a>
+In this Piece I explained about how to solve the mathematical equations using python with sympy library.
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
