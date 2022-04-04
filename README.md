@@ -3,7 +3,7 @@ This Repository Have all the important Concepts and their Implementations in Pyt
 This Repository have following Implementations
 
 # Table of contents
-1. [Introduction](#introduction)
+1. [Introduction](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/solving%20an%20equation%20using%20python.ipynb)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
