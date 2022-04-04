@@ -8,7 +8,7 @@ This Repository have following Implementations
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="solving an equation using python"></a>
+## solving an equation using python <a name="solving an equation using python"></a>
 In this Piece I explained about how to solve the mathematical equations using python with sympy library.
 
 ## Some paragraph <a name="paragraph1"></a>
