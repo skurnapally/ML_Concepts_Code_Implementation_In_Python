@@ -14,6 +14,10 @@ This Repository have following Implementations
 3. [searching](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/tree/main/searching)
 	1. [Linear Search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Linear_Search.ipynb)
 	2. [Binary Search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Binary_Search.ipynb)
+	3. [jump search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Jump_Search.ipynb)
+	4. [Exponential search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Exponential_Search.ipynb)
+	5. [Interpolation search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Interpolation_search.ipynb)
+	6. [Dfs and Bfs](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/DFS_and_BFS.ipynb)
 
 ## solving an equation using python <a name="solving an equation using python"></a>
 In this Piece I explained about how to solve the mathematical equations using python with sympy library.
@@ -24,5 +28,3 @@ This Particular folder have all the important libraries information for quick lo
 ### Searching <a name="searching"></a>
 We will be understanding different searching algorithms and there implementation in python.
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
