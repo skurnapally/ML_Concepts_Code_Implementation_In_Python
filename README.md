@@ -18,7 +18,13 @@ This Repository have following Implementations
 	4. [Exponential search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Exponential_Search.ipynb)
 	5. [Interpolation search](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/Interpolation_search.ipynb)
 	6. [Dfs and Bfs](https://github.com/skurnapally/ML_Concepts_Code_Implementation_In_Python/blob/main/searching/DFS_and_BFS.ipynb)
-
+4.	[Sorting]
+	1.[Insertion sort]
+	2.[Bubble sort]
+	3.[Selection sort]
+	4.[Quick sort]
+	5.[Merge sort]
+	
 ## solving an equation using python <a name="solving an equation using python"></a>
 In this Piece I explained about how to solve the mathematical equations using python with sympy library.
 
@@ -28,3 +34,5 @@ This Particular folder have all the important libraries information for quick lo
 ### Searching <a name="searching"></a>
 We will be understanding different searching algorithms and there implementation in python.
 
+### Sorting <a name="Sorting"></a>
+We will be understanding different Sorting algorithms and there implementation in python.
