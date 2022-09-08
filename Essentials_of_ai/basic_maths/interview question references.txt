@@ -1,0 +1,9 @@
+Interview questions link for algebra: https://www.mlstack.cafe/blog/linear-algebra-interview-questions\
+
+https://www.itshared.org/2015/10/data-science-interview-questions.html
+
+ Probability and statistics: 	https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street
+
+Interview questions good : https://towardsdatascience.com/math-you-need-to-succeed-in-ml-interviews-9e717d61f296
+
+https://www.mle-interviews.com/ml-coding
